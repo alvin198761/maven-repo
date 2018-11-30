@@ -6,8 +6,8 @@ pom.xml:
 ```xml
     <repositories>
         <repository>
-            <id>hengyunabc-maven-repo</id>
-            <url>https://raw.githubusercontent.com/hengyunabc/maven-repo/master/repository</url>
+            <id>alvin_maven_repo</id>
+            <url>https://raw.githubusercontent.com/alvin198761/maven-repo/master/repository</url>
         </repository>
     </repositories>
 ```
