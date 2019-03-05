@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.alvin.home</groupId>
+  <artifactId>mini-inject</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190305053826</lastUpdated>
+  </versioning>
+</metadata>
