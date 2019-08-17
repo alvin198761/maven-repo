@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.alvin.home</groupId>
-  <artifactId>code_common</artifactId>
+  <artifactId>code_jdbc</artifactId>
   <versioning>
     <versions>
-      <version>2.0-SNAPSHOT</version>
       <version>2.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190817132158</lastUpdated>
+    <lastUpdated>20190817132202</lastUpdated>
   </versioning>
 </metadata>
