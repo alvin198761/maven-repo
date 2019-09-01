@@ -1,5 +1,5 @@
 # maven-repo
-My personal maven repository.
+个人maven仓库
 
 ## Usage
 pom.xml:
