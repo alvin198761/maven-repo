@@ -11,3 +11,6 @@ pom.xml:
         </repository>
     </repositories>
 ```
+```java
+mvn install:install-file -Dfile="D:\test.jar" -DgroupId=org.alvin.test -DartifactId=test -Dversion=3.2.0 -Dpackaging=jar
+```
